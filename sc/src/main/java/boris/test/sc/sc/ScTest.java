@@ -8,5 +8,6 @@ public class ScTest {
 	@Scheduled(fixedRate = 1000)
 	public void ttt() {
 		System.out.println("xxyyzz");
+		System.out.println("add");
 	}
 }
