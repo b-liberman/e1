@@ -9,5 +9,6 @@ public class ScTest {
 	public void ttt() {
 		System.out.println("xxyyzz");
 		System.out.println("add");
+		System.out.println("this is form master");
 	}
 }
