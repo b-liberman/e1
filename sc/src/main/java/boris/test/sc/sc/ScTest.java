@@ -7,6 +7,6 @@ import org.springframework.stereotype.Component;
 public class ScTest {
 	@Scheduled(fixedRate = 1000)
 	public void ttt() {
-		System.out.println("123");
+		System.out.println("1234");
 	}
 }
