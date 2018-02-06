@@ -9,6 +9,6 @@ public class ScTest {
 	public void ttt() {
 		System.out.println("xxyyzz");
 		System.out.println("add");
-		System.out.println("this is from b2");
+		System.out.println("this is from b2" + "this is another one");
 	}
 }
