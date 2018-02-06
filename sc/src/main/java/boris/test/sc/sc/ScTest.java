@@ -11,5 +11,6 @@ public class ScTest {
 		System.out.println("add");
 		System.out.println("this is from b2" + "this is another oneCC");
 		System.out.println("this is form master" + "and another one");
+		System.out.println("this is form master" + "and another one" + "and the third one");
 	}
 }
